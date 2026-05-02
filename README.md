@@ -1,6 +1,6 @@
 # PYRX Synapse Go SDK
 
-Official Go SDK for the [PYRX Synapse](https://pyrx.tech) customer engagement platform.
+Official Go SDK for the [PYRX Synapse](https://synapse.pyrx.tech) customer engagement platform.
 
 ## Installation
 
